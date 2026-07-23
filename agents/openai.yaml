@@ -1,0 +1,4 @@
+interface:
+  display_name: "搜索与转换开放书籍"
+  short_description: "按书名检索合法开放资源并转换为 PDF 与 Markdown"
+  default_prompt: "Use $find-open-books to find a legally downloadable book by title and convert it to PDF and Markdown."
