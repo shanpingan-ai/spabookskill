@@ -1,0 +1,4 @@
+beautifulsoup4==4.15.0
+defusedxml==0.7.1
+markdownify==1.2.3
+reportlab==5.0.0
